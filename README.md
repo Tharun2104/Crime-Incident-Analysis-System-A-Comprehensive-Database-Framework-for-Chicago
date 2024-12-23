@@ -15,6 +15,8 @@ This project introduces a robust database framework for analyzing crime incident
 
 ---
 
+![Chicago Crime Analysis](ER.png "Chicago Crime Analysis System")
+
 ## **Database Schema**
 The database consists of the following main tables:
 - **Crime**
@@ -42,6 +44,10 @@ https://data.cityofchicago.org/
 - Web application for data visualization using **Streamlit**.
 
 ---
+
+
+
+
 
 ## **Technologies Used**
 - **PostgreSQL**
